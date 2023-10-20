@@ -1,5 +1,5 @@
 import { getPostBySlug } from "lib/api";
-import Container from "components/container";
+//import Container from "components/container";
 import PostHeader from "components/post-header";
 
 export default function Schedule({
