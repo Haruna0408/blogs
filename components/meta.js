@@ -9,7 +9,13 @@ const { siteTitle, siteDesc, siteUrl, siteLocal, sitetype, siteIcon } =
 // 汎用OGP画像
 import siteImg from "images/ogp.jpg";
 
-export default function Meta({ pageTitle, pageDesc,pageImg, pageImgW, pageImgH }) {
+export default function Meta({
+  pageTitle,
+  pageDesc,
+  pageImg,
+  pageImgW,
+  pageImgH,
+}) {
   // ページのタイトル
   const title = pageTitle ? `${pageTitle} | ${siteTitle}` : siteTitle;
 
