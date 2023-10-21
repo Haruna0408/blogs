@@ -15,6 +15,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
     "date-fns": "^2.30.0",
+    "html-react-parser": "^4.2.7",
     "microcms-js-sdk": "^2.6.1",
     "next": "^13.4.7-canary.1",
     "react": "18.2.0",
