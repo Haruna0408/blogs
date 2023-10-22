@@ -19,8 +19,10 @@
     "html-to-text": "^9.0.5",
     "microcms-js-sdk": "^2.6.1",
     "next": "^13.4.7-canary.1",
+    "plaiceholder": "^3.0.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sharp": "^0.32.6"
   },
   "devDependencies": {
     "eslint": "8.23.1",
