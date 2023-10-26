@@ -8,7 +8,7 @@ import {
   TwoColumnSidebar,
 } from "components/two-column";
 import ConvertBody from "components/convert-body";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import { eyecatchLocal } from "lib/constants";
 //import { getPlaiceholder } from "plaiceholder";
 import Pagination from "components/pagination";
